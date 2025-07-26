@@ -24,15 +24,14 @@ This is a simple Java-based **Restaurant Management System** that runs on the co
    javac Restaurant_Management.java
 
 ## Sample Output
-Welcome to the Multi Cuisine Restaurant!!!
+#### Welcome to the Multi Cuisine Restaurant!!!
 1: Starter Corner
 2: Main Course
 3: Dessert Corner
-
-Enter Your Choice:
-...
-Total amount with GST: ₹XYZ
-Thank you for visiting!
+#### Enter Your Choice:
+##### ...
+##### Total amount with GST: ₹XYZ
+##### Thank you for visiting!
 
 ## 🧾 Technologies Used
 Java (JDK 8+)
